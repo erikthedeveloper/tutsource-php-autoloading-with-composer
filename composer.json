@@ -1,7 +1,7 @@
 {
     "autoload": {
         "classmap": [
-            "src/classes_to_load"
+            "src/classmap_dir"
         ]
     }
 }
